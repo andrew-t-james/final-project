@@ -9,7 +9,7 @@
 </div>
 
 <div class="absolute top-0 left-0 w-full h-full">
-  <img src="/images/pexels-kawserhamid-176342.jpg" class="w-full h-full object-cover opacity-20">
+  <img src="./images/pexels-kawserhamid-176342.jpg" class="w-full h-full object-cover opacity-20">
 </div>
 
 <div class="relative z-10">
