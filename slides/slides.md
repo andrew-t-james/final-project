@@ -102,8 +102,8 @@ notes:
 # What the AI Sees
 
 <div class="grid grid-cols-2 gap-4">
-  <img src="../images/diff_IMG_4415.jpg.png" />
-  <img src="../images/diff_IMG_4437.jpg.png" />
+  <img src="./images/diff_IMG_4415.jpg.png" />
+  <img src="./images/diff_IMG_4437.jpg.png" />
 </div>
 
 - Left: Early phase (~0%)
@@ -198,7 +198,7 @@ notes:
 # Demo
 
 <div class="absolute top-0 left-0 w-full h-full">
-  <img src="../images/construction_progress_analysis.png" class="w-full h-full object-cover opacity-20">
+  <img src="./images/construction_progress_analysis.png" class="w-full h-full object-cover opacity-20">
 </div>
 
 ---
